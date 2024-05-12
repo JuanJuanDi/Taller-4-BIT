@@ -34,3 +34,4 @@ otraOperacion = prompt ( "¿Desea realizar otra operacion? (Si/No)").toLowerCase
 
 
 /** Se da funcion completa de operacion aritmeticas, no solo de suma y se le da opcion al usuario de hacer varias operacion segun disponga */
+
